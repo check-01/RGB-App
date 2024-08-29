@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing styles -->
+
+    <!-- Custom style for ImageView corner radius -->
+    <style name="ShapeAppearanceOverlay.CornerRadius" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50dp</item> <!-- Adjust the radius as needed -->
+    </style>
+</resources>

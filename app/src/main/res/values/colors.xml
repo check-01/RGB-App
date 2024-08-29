@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#ADD8E6</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="custom_button_color">#c2fbd7</color>
+    <color name="custom_button_text_color">#44bb63</color>
+    <color name="custom_button_text_color_I">#E8C6AC</color>
+
+
+    <color name="background_color">#E4ECEC</color>
+    <color name="background_color_I">#B4F3F3</color>
+    <color name="background_color_II">#A9B8B8</color>
+
+
+    <color name="normal_item_color">#EA938C</color>
+    <color name="selected_item_color">#0DF416</color>
+
+
+</resources>

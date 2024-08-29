@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948508026608",
+    "project_id": "rgbpicker-528b5",
+    "storage_bucket": "rgbpicker-528b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948508026608:android:001a4b2fc870444f9b4435",
+        "android_client_info": {
+          "package_name": "com.example.rgbpicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJfJ1mrhd9n0IwHOZW1k-t1wj0VWVdzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
